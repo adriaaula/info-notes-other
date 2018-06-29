@@ -1,5 +1,4 @@
-#Primers and history for 16S amplification
-
+# Primers and history for 16S amplification
 
 ## The regions 
 
