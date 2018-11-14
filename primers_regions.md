@@ -21,13 +21,19 @@ Along the years of using this gene as a marker to establish the community struct
 ||||||
 ||||||
 ||||||
-|**358F/806RB**|V4|~448|Herleman and Appril|Used in BBMO analysis|
+|**358F/806RB**|V3-V4|~448|Apprill|Used in BBMO analysis|
 |**515F/926R**|V4 - V5|~411|[AE Parada](https://www.ncbi.nlm.nih.gov/pubmed/26271760)|Used in Malaspina, overampli Cyanobacteria|
 
 
 ### Primers !
 
 
+| Name |Origin  | Sequence|
+|------|------|---------|
+|**358F**|Apprill||
+|**806RB**|Apprill||
+|**515F**|AE Parada|5'-GTGYCAGCMGCCGCGGTAA|
+|**926R**|AE Parada|5'-CCGYCAATTYMTTTRAGTTT|
 
 Other info
 - : 
