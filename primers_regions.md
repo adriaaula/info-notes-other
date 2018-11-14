@@ -14,15 +14,26 @@ Along the years of using this gene as a marker to establish the community struct
 
 ## The primers 
 
+### Dataset 
+| Name | Region amplified | length amplicon | study | Obvs. |
+|-----|-------------------|----------------|--------|-------|
+|**8F/1492R**||||The initial one, used by covering the complete region, and resulting in an amplicon of almost 1485 bp. Right now, with the technologies that we use (and Illumina) this is far too big. |
+||||||
+||||||
+||||||
+|**358F/806RB**|V4|~448|Herleman and Appril|Used in BBMO analysis|
+|**515F/926R**|V4 - V5|~411|[AE Parada](https://www.ncbi.nlm.nih.gov/pubmed/26271760)|Used in Malaspina, overampli Cyanobacteria|
 
- - **8F/1492R**: The initial one, used by covering the complete region, and resulting in an amplicon of almost 1485 bp. Right now, with the technologies that we use (and Illumina) this is far too big. 
 
- - **341F/907R**: This one was used for performing DDGEs . 
+### Primers !
 
- - **8F/519R**: Used for 454 pyrosequencing. 
- - **515/806R**: EMP. Earth Microbiome Project. 
- - **358F/806RB**: These are the ones that were used in Blanes amplification. By Herleman and Appril et al. 
- - **515F/926R**: Parada et al. Used in Malaspina, and the ones developed by Furhman et al. They have Cyanobacteria bias, presenting overestimation of abundance. 
+
+
+Other info
+- : 
+- **341F/907R**: This one was used for performing DDGEs . 
+- **8F/519R**: Used for 454 pyrosequencing. 
+- **515/806R**: EMP. Earth Microbiome Project. 
 
 
 
