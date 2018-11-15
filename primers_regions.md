@@ -20,9 +20,9 @@ Along the years of using this gene as a marker to establish the community struct
 |**8F/1492R**||||The initial one, used by covering the complete region, and resulting in an amplicon of almost 1485 bp. Right now, with the technologies that we use (and Illumina) this is far too big. |
 ||||||
 ||||||
-||||||
-|**358F/806RB**|V3-V4|~448|Apprill|Used in BBMO analysis|
-|**515F/926R**|V4 - V5|~411|[AE Parada](https://www.ncbi.nlm.nih.gov/pubmed/26271760)|Used in Malaspina, overampli Cyanobacteria|
+|**Bakt_341F/Bakt_805R**|V3-V4|~464|[Herlemann 2011](https://www.ncbi.nlm.nih.gov/pubmed/21472016) |Forward used in BBMO analysis.|
+|**358F/806RB**|V3-V4|~448|[Apprill 2015](https://www.int-res.com/articles/ame_oa/a075p129.pdf)|Reverse used in BBMO analysis. Forward not modified ([Caporaso 2011](http://www.pnas.org/content/108/Supplement_1/4516))| 
+|**515F/926R**|V4 - V5|~411|[AE Parada 2016](https://www.ncbi.nlm.nih.gov/pubmed/26271760)|Used both in Malaspina, overampli Cyanobacteria|
 
 
 ### Primers !
@@ -30,8 +30,8 @@ Along the years of using this gene as a marker to establish the community struct
 
 | Name |Origin  | Sequence|
 |------|------|---------|
-|**358F**|Apprill||
-|**806RB**|Apprill||
+|**341F**|Herlemann|5'-CCTACGGGNGGCWGCAG|
+|**806RB**|Apprill|5'-GGACTACNVGGGTWTCTAAT|
 |**515F**|AE Parada|5'-GTGYCAGCMGCCGCGGTAA|
 |**926R**|AE Parada|5'-CCGYCAATTYMTTTRAGTTT|
 
