@@ -28,12 +28,12 @@ Along the years of using this gene as a marker to establish the community struct
 ### Primers !
 
 
-| Name |Origin  | Sequence|
-|------|------|---------|
-|**341F**|Herlemann|5'-CCTACGGGNGGCWGCAG|
-|**806RB**|Apprill|5'-GGACTACNVGGGTWTCTAAT|
-|**515F**|AE Parada|5'-GTGYCAGCMGCCGCGGTAA|
-|**926R**|AE Parada|5'-CCGYCAATTYMTTTRAGTTT|
+| Name |Origin  | Sequence| Length | 
+|------|------|---------|--------|
+|**341F**|Herlemann|5'-CCTACGGGNGGCWGCAG|17 pb | 
+|**806RB**|Apprill|5'-GGACTACNVGGGTWTCTAAT| 20 pb |
+|**515F**|AE Parada|5'-GTGYCAGCMGCCGCGGTAA| 19 pb |
+|**926R**|AE Parada|5'-CCGYCAATTYMTTTRAGTTT| 21 pb | 
 
 Other info
 - : 
