@@ -21,7 +21,7 @@ Along the years of using this gene as a marker to establish the community struct
 ||||||
 ||||||
 |**Bakt_341F/Bakt_805R**|V3-V4|~464|[Herlemann 2011](https://www.ncbi.nlm.nih.gov/pubmed/21472016) |Forward used in BBMO analysis.|
-|**358F/806RB**|V3-V4|~448|[Apprill 2015](https://www.int-res.com/articles/ame_oa/a075p129.pdf)|Reverse used in BBMO analysis. Forward not modified ([Caporaso 2011](http://www.pnas.org/content/108/Supplement_1/4516))| 
+|**341F/806RB**|V3-V4|~448|[Apprill 2015](https://www.int-res.com/articles/ame_oa/a075p129.pdf)|Reverse used in BBMO analysis. Forward not modified ([Caporaso 2011](http://www.pnas.org/content/108/Supplement_1/4516))| 
 |**515F/926R**|V4 - V5|~411|[AE Parada 2016](https://www.ncbi.nlm.nih.gov/pubmed/26271760)|Used both in Malaspina, overampli Cyanobacteria|
 
 
